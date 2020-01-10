@@ -3,7 +3,7 @@
 //  BMI Calculator
 //
 //  Created by Angela Koceva on 1/9/20.
-//  Copyright © 2020 Angela Yu. All rights reserved.
+//  Copyright © 2020 Angela Koceva. All rights reserved.
 //
 
 import UIKit
